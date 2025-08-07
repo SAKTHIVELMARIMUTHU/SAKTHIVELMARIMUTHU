@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Product that will make a change.
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about tech
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+<br> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: ... 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+### I code in
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/> 
