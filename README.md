@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <br> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
 ### My skills are:
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/> 
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=Hph7fH3f5brw&format=png&color=000000"/> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Hph7fH3f5brw&format=png&color=000000"/> 
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/> 
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/> 
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000"/>
