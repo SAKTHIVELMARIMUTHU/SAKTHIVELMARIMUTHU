@@ -15,7 +15,21 @@ Here are some ideas to get you started:
 - 💬 Ask me about tech
 - 📫 How to reach me:
 <br> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-- 😄 Pronouns: Techie
 
-### I code in
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/> 
+### My skills are:
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=Hph7fH3f5brw&format=png&color=000000"/> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=12239&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=11935&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=epZz7YMDqqwA&format=png&color=000000"/>
+
+
+
