@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/> 
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/> 
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=12239&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=11935&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=epZz7YMDqqwA&format=png&color=000000"/>
 
